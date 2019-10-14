@@ -2,23 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Xinyu&#39;s Blog</title>
-    <link>https://jianxinyu.com/tags/</link>
+    <link>https://www.jianxinyu.com/tags/</link>
     <description>Recent content in Tags on Xinyu&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 14 Sep 2019 00:44:08 -0230</lastBuildDate>
     
-	<atom:link href="https://jianxinyu.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.jianxinyu.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>随笔 Free Style</title>
-      <link>https://jianxinyu.com/tags/%E9%9A%8F%E7%AC%94-free-style/</link>
-      <pubDate>Sat, 14 Sep 2019 00:44:08 -0230</pubDate>
-      
-      <guid>https://jianxinyu.com/tags/%E9%9A%8F%E7%AC%94-free-style/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
