@@ -2,19 +2,9 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://jianxinyu.com/categories/</loc>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
       <loc>https://jianxinyu.com/tags/</loc>
+      
+      <lastmod>2019-09-14T00:44:08-02:30</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -27,6 +17,48 @@
   
     <url>
       <loc>https://jianxinyu.com/</loc>
+      
+      <lastmod>2019-09-14T00:44:08-02:30</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://jianxinyu.com/first_poetry/</loc>
+      
+      <lastmod>2019-09-14T00:44:08-02:30</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://jianxinyu.com/tags/%E9%9A%8F%E7%AC%94-free-style/</loc>
+      
+      <lastmod>2019-09-14T00:44:08-02:30</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://jianxinyu.com/categories/</loc>
       
       
       <changefreq>monthly</changefreq>
